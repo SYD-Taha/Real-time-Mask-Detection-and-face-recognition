@@ -131,7 +131,7 @@ python realtime.py
 
 ## 👤 Author
 
-**Your Name**\
+**Syed Taha Jameel**\
 AI Engineer | Computer Vision Specialist
 
 ---
